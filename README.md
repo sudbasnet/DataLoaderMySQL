@@ -20,7 +20,7 @@ Summary: Global Population of the World (GPW) translates census population data 
 
 1.  If you click GetData on the page in step 1, we get to  http://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=975. On this page, we go through the Spatial Data Access Tool link to reach http://webmap.ornl.gov/wcsdown/wcsdown.jsp?dg_id=975_3.
 
-        ISLSCP II Global Population of the World doi:10.3334 ... daac.ornl.gov
+    ISLSCP II Global Population of the World doi:10.3334 ... daac.ornl.gov
 
     Description. Global Population of the World (GPW) translates census population data to a latitude-longitude grid so that population data may be used in cross ...  
     \*\*Note: The Spatial Data Access Tool link leads to a page with multiple different links to maps that encompass multiple different variables. I assume that it is one of the population based maps, but I am not sure which one.
